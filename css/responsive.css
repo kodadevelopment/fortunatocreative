@@ -2,6 +2,10 @@
   #header .header-content {
     width: 90%; }
 
+    .wp-image-28 {
+        width: 100%;
+        height:auto;
+    }
   .nav-toggle {
     display: block; }
 
@@ -57,8 +61,12 @@
 	{
 	min-height:100%!important;	
 	}
+    .wp-image-28 {
+        width: 100%;
+        height:auto;
+    }
   .banner-text {
-    padding-top: 30%; }
+    padding-top: 20%; }
     .banner-text h1 {
       font-size: 42px; }
     .banner-text p {
@@ -77,8 +85,12 @@
 	#header .header-content {
 		 padding: 45px 0;
 	}
+    .wp-image-28 {
+        width: 100%;
+        height:auto;
+    }
   .banner-text {
-    padding-top: 35%; }
+    padding-top: 50%; }
 	.innerbanner-text{
 	    padding-top: 35%; } }
 @media screen and (max-width: 480px) {
@@ -95,7 +107,10 @@
 	#header .header-content {
 		 padding: 45px 0;
 	}
-			
+    .wp-image-28 {
+        width: 100vw;
+        height:auto;
+    }
 			
   .banner-text {
     padding-top: 55%; }
