@@ -118,7 +118,7 @@
         ?>
                 </div>
             </div>
-    <div class="container-fluid text-center">
+    <div class="container text-center">
   <div class="row">
     <div class="col-sm-4">
       <h3>Graphic Design</h3>
@@ -126,15 +126,17 @@
     </div>
     <div class="col-sm-4">
       <h3>Package Design</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <p>We work closely with our clients to understand their brand identity, target audience, and goals, and develop custom packaging concepts that align with their vision.</p>
     </div>
     <div class="col-sm-4">
       <h3>3D Product Visualizations</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <p>Our team of skilled artists and designers creates photorealistic 3D renderings that showcase your products from every angle and in any environment. Including AR and VR Immerse your audience in a virtual world where they can interact with your products in a completely immersive and lifelike environment.</p>
     </div>
+    </div>
+    <div class="row">
     <div class="col-sm-4">
       <h3>Creative Coding</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Creative coding for live visuals, as well as creating visual art and design, art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.</p>
     </div>
     <div class="col-sm-4">
       <h3>Frontend Web Development</h3>        
@@ -144,25 +146,28 @@
       <h3>Backend Web Development</h3>        
       <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
     </div>
+    </div>
+    <div class="row">
     <div class="col-sm-4">
-      <h3>Backend Web Development</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <h3>Database Design and Management:</h3>        
+      <p>We design and implement robust database solutions to store and manage your data effectively.</p>
     </div>
     <div class="col-sm-4">
-      <h3>Backend Web Development</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <h3>API Development:</h3>        
+      <p>We create custom APIs to enable seamless communication between different components of your web ecosystem.</p>
     </div>
     <div class="col-sm-4">
-      <h3>Backend Web Development</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <h3>CMS Development:</h3>        
+      <p>We develop custom content management systems to give you full control over your website's content.</p>
+    </div>
     </div>
     <div class="col-sm-4">
-      <h3>Backend Web Development</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <h3>E-commerce Solutions:</h3>        
+      <p>From online stores to payment gateways, we build e-commerce solutions that drive sales and revenue.</p>
     </div>
     <div class="col-sm-4">
-      <h3>Backend Web Development</h3>        
-      <p>Our backend developers are experts in building scalable, secure, and efficient server-side applications.</p>
+      <h3>Mobile-Friendly Design: </h3>        
+      <p>We ensure that your website is fully optimized for mobile devices, providing a seamless experience across all platforms.</p>
     </div>
   </div>
 </div>
